@@ -444,7 +444,8 @@ history/runs/*
 
 *.html
 
-*.csv
+# *.csv
+clean_cost_of_living.csv
 
 *.xlsx
 
