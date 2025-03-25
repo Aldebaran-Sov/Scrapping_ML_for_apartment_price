@@ -446,6 +446,11 @@ history/runs/*
 
 # *.csv
 clean_cost_of_living.csv
+otherThenPrice_cost_of_living.csv
+clean_apartment.csv
+data_ml.csv
+data_ml_clean.csv
+data_ml_clean_OneHot.csv
 
 *.xlsx
 
